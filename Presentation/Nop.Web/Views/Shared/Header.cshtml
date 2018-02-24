@@ -1,0 +1,31 @@
+﻿<div class="header">
+    @Html.Widget("header")
+    <div class="header-upper">
+        <div class="header-selectors-wrapper">
+            @Html.Action("TaxTypeSelector", "Common")
+            @Html.Action("CurrencySelector", "Common")
+            @Html.Action("LanguageSelector", "Common")
+            @Html.Widget("header_selectors")
+        </div>
+        <div class="header-links-wrapper">
+            @Html.Action("HeaderLinks", "Common")
+            @Html.Action("FlyoutShoppingCart", "ShoppingCart")
+        </div>
+    </div>
+    <div class="header-lower">
+        <div class="header-logo">
+            @Html.Action("Logo", "Common")
+        </div>
+        <div class="header-adress">
+            <p>Имя:Татьяна</p>
+            <a href="tel:+380679828617"><span class="number-call">Телефон:+380667157998</span></a>
+            <a href="tel:+380679828617"><span class="number-call">Телефон:+380933541590</span></a>
+            <p>Адрес:г.Харьков</p>
+            <p>ул.Леся Сердюка 44-Б</p>
+            <p>(бывш. Ком.Корка)</p>
+        </div>
+        <div class="search-box store-search-box">
+            @Html.Action("SearchBox", "Catalog")
+        </div>
+    </div>
+</div>

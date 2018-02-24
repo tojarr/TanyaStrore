@@ -1,0 +1,15 @@
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\Configure.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\PublicInfo.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.CoreCompileInputs.cache
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

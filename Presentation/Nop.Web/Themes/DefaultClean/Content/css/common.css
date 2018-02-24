@@ -1,0 +1,37 @@
+﻿body {
+}
+div.header-lower{
+    background-color:aqua;
+    padding:5px;
+    margin:0 auto;
+
+}
+div.header-logo{
+    margin:0;
+}
+
+.header-adress{
+    color:darkblue;
+    text-align:center;
+    vertical-align:middle;
+    margin:10px 0;
+    width:290px;
+}
+
+.header-adress a:hover{
+    text-decoration:underline;
+}
+
+@media (max-width: 1000px)
+{
+    .header-adress{
+        margin:0 auto 20px;
+    }
+
+    div.header-lower{
+        max-width:600px;
+        width:95%;
+        padding:10px;
+        margin:0 auto 20px;
+    }
+}

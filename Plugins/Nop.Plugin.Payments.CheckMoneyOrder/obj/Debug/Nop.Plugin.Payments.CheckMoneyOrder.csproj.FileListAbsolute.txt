@@ -1,0 +1,12 @@
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.App.config
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

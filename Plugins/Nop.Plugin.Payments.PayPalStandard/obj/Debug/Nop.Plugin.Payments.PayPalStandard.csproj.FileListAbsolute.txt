@@ -1,0 +1,12 @@
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

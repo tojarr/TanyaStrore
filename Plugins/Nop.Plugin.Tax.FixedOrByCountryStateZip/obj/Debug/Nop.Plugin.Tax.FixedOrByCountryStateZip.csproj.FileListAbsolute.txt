@@ -1,0 +1,13 @@
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\TanyaSite\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
